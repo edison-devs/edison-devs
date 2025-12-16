@@ -35,7 +35,6 @@
 
 
 <section>
-  <h3>About me</h3>
   <p>
     I am a Computer Engineer with experience in both web and mobile development.
     My main focus is on backend engineering, where I apply my knowledge of software
