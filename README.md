@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Website"/>
   </a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=edisonhernantriana09@gmail.com&su=Feedback%20From%20Github&body=Hello," target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edisonhernantriana09@gmail.com&su=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   
   <a href="https://www.linkedin.com/in/edison-niño-4426102ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +22,12 @@
   <a href="https://www.instagram.com/hernan_ent/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
+  <a href="https://www.facebook.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
+
 
 <p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
 </p>
