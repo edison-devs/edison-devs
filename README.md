@@ -35,7 +35,7 @@
 
 
 <p >I am a Computer Engineer with experience in both web and mobile development. My main focus is on backend engineering, where I apply my knowledge of software architectures and project organization to build scalable and efficient solutions.
-
+	
 I am highly organized and detail-oriented.
 Thanks to my background as an educator, I excel at explaining complex concepts clearly.
 I am a strong team player, bringing structure and collaboration to every project.
