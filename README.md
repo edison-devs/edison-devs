@@ -34,7 +34,13 @@
 
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >I am a Computer Engineer with experience in both web and mobile development. My main focus is on backend engineering, where I apply my knowledge of software architectures and project organization to build scalable and efficient solutions.
+
+🔹 I am highly organized and detail-oriented.
+🔹 Thanks to my background as an educator, I excel at explaining complex concepts clearly.
+🔹 I am a strong team player, bringing structure and collaboration to every project.
+
+My goal is to combine technical expertise with effective communication to deliver high-quality results and foster teamwork.
 </p>
 
 
