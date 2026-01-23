@@ -59,6 +59,10 @@ My goal is to combine technical expertise with effective communication to delive
   <a href="https://laravel.com/" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
+
+  <a href="https://filamentphp.com/" target="_blank">
+    <img alt="Filament" src="https://img.shields.io/badge/Filament-FFA116?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
   
   <a href="https://flutter.dev/" target="_blank">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
