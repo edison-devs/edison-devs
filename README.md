@@ -111,4 +111,16 @@ My goal is to combine technical expertise with effective communication to delive
   <a href="https://www.arduino.cc/" target="_blank">
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   </a>
+
+  <a href="https://www.sqlalchemy.org/" target="_blank">
+      <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+    </a>
+
+  <a href="https://flet.dev/" target="_blank">
+    <img alt="Flet" src="https://img.shields.io/badge/Flet-0052CC?style=for-the-badge&logo=flet&logoColor=white">
+  </a>
+
+  <a href="https://alembic.sqlalchemy.org/" target="_blank">
+    <img alt="Alembic" src="https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 </p>
