@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="https://ifeanyi-nneji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Website"/>
+  <a href="https://edison-devs.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Portfolio"/>
   </a>
   
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edisonhernantriana09@gmail.com&su=Feedback%20From%20Github&body=Hello," target="_blank">
