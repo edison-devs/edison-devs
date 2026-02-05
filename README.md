@@ -55,6 +55,10 @@ My goal is to combine technical expertise with effective communication to delive
   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </a>
+
+  <a href="https://www.django-rest-framework.org/" target="_blank">
+    <img alt="DRF" src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white">
+  </a>
   
   <a href="https://laravel.com/" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -103,6 +107,14 @@ My goal is to combine technical expertise with effective communication to delive
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
+
+  <a href="https://www.wxpython.org/" target="_blank">
+    <img alt="wxPython" src="https://img.shields.io/badge/wxPython-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+    <img alt="Visual Basic" src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white">
+  </a>
   
   <a href="https://isocpp.org/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
@@ -113,8 +125,8 @@ My goal is to combine technical expertise with effective communication to delive
   </a>
 
   <a href="https://www.sqlalchemy.org/" target="_blank">
-      <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-    </a>
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+  </a>
 
   <a href="https://flet.dev/" target="_blank">
     <img alt="Flet" src="https://img.shields.io/badge/Flet-0052CC?style=for-the-badge&logo=flet&logoColor=white">
