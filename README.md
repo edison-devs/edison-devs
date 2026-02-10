@@ -131,6 +131,9 @@ My goal is to combine technical expertise with effective communication to delive
   <a href="https://flet.dev/" target="_blank">
     <img alt="Flet" src="https://img.shields.io/badge/Flet-0052CC?style=for-the-badge&logo=flet&logoColor=white">
   </a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>
 
   <a href="https://alembic.sqlalchemy.org/" target="_blank">
     <img alt="Alembic" src="https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white">
