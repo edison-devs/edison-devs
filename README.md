@@ -34,13 +34,9 @@
 
 
 
-<p>I am a Computer Engineer with experience in both web and mobile development. My main focus is on backend engineering, where I apply my knowledge of software architectures and project organization to build scalable and efficient solutions.
-    
-I am highly organized and detail-oriented.
-Thanks to my background as an educator, I excel at explaining complex concepts clearly.
-I am a strong team player, bringing structure and collaboration to every project.
+<p>Computer Engineer with over 2 years of experience developing robust and scalable solutions using Laravel and Django. My primary focus is Backend engineering, specializing in the creation of APIs, bulk data processing, microservices, embedded systems (IoT), and multi-platform applications. I consistently apply clean architectures and SOLID principles, while maintaining the versatility to work on the Frontend or complement my developments with functional interfaces.
 
-My goal is to combine technical expertise with effective communication to deliver high-quality results and foster teamwork.
+My technical expertise includes managing client-server and embedded databases, with deployments in both local and cloud environments. I have mastered asynchronous task management and real-time communication through the use of jobs, observers, signals, Server-Sent Events, and WebSockets. As a responsible and self-taught professional, I leverage my background in consultancy and teaching to continuously learn, communicate complex concepts clearly, and lead successful technological implementations.
 </p>
 
 
